@@ -195,7 +195,7 @@ section{
    
     display: flex;
     align-items: center;
-    background:url(hero2.jpg);
+    background:url(./assets/hero2.jpg);
     background-size: cover;
     background-position: center;
 }
